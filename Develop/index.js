@@ -85,3 +85,11 @@ console.log(readMeText)
 }
 
 // TODO: Create a function to initialize app
+function generator() {
+    inquirer.prompt(questions)
+        .then((answers) => {
+            writeToFile(answers)
+        })
+
+}
+generator();
