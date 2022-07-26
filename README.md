@@ -29,6 +29,9 @@ THEN I am taken to the corresponding section of the README
 
 ## Video Link
 
+https://user-images.githubusercontent.com/90733086/181130579-970a81c8-0c21-4692-b79d-030df4a4245f.mp4
 
-https://user-images.githubusercontent.com/90733086/181130263-b092a432-9b5d-4dd8-bef2-011e26a0d43e.mp4
-
+##ScreenShots
+<img width="779" alt="Screen Shot 2022-07-26 at 4 44 24 PM" src="https://user-images.githubusercontent.com/90733086/181130926-9893f475-82bb-478d-a663-0489f241b148.png">
+<img width="726" alt="Screen Shot 2022-07-26 at 4 44 38 PM" src="https://user-images.githubusercontent.com/90733086/181130929-77ce85db-197a-45d2-a227-20afb5a3e8bd.png">
+<img width="1125" alt="Screen Shot 2022-07-26 at 4 44 12 PM" src="https://user-images.githubusercontent.com/90733086/181130933-8b1cf004-7126-438d-93cc-02ba8d9b2e6c.png">
