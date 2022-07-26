@@ -31,7 +31,7 @@ THEN I am taken to the corresponding section of the README
 
 https://user-images.githubusercontent.com/90733086/181130579-970a81c8-0c21-4692-b79d-030df4a4245f.mp4
 
-##ScreenShots
+## ScreenShots
 
 
 <img width="779" alt="Screen Shot 2022-07-26 at 4 44 24 PM" src="https://user-images.githubusercontent.com/90733086/181130926-9893f475-82bb-478d-a663-0489f241b148.png">
